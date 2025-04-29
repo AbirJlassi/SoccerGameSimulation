@@ -1,6 +1,7 @@
 # Simulation Jeu Soccer
 
 This project sets up a virtual environment and installs the necessary packages for a simulation using Mesa, Matplotlib, and NumPy.
+![image](https://github.com/user-attachments/assets/570b13b1-e73f-420f-b5c1-2d15d53ba7cb)
 
 ## Project Structure
 
